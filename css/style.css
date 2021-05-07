@@ -96,8 +96,8 @@ img {
   border-bottom: 1px solid var(--bottom-line);
 }
 .header-studio {
-  padding-top: 24px;
-  padding-bottom: 24px;
+  /* padding-top: 24px;
+  padding-bottom: 24px; */
   text-decoration: none;
   font-family: Raleway;
   font-style: normal;
